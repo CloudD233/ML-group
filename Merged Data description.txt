@@ -1,0 +1,4 @@
+This is for all games from the 2023 season
+Reason being, it's still a lot of data, and there were new rules aimed at improving the pace of play, so probably shouldn't include older data anyway
+There 4,860 rows because for each game there's a row for each team and their associated statistics (162 games x 30 teams)
+The actual metrics like hits and what not are from the pitching perspective, so a record saying Yankees for the team with a 5 in the hits column means Yankees pitchers gave up 5 hits, not the Yankees got 5 hits
