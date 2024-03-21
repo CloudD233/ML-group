@@ -7,14 +7,3 @@ https://baseballsavant.mlb.com/csv-docs
 ## Offence and Defence
 > Analysis which aspect(offence/defence) of a team matters more to the winning of a team. 
 
-## Christopher LaDuke
-- PCA
-
-## Nicholas Morgan
-- Classification
-
-## Cloud Deng
-  - Random forest
-
-## The rest 
- - undecided
